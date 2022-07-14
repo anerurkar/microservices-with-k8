@@ -1,4 +1,4 @@
-package com.dailycodebuffer.department;
+package com.techbytes.mckuberbete.department;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

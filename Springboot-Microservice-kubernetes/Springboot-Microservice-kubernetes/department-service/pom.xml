@@ -9,8 +9,8 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.dailycodebuffer</groupId>
-	<artifactId>department-service</artifactId>
-	<version>0.0.1</version>
+	<artifactId>dept-svc</artifactId>
+	<version>1.0.0</version>
 	<name>department-service</name>
 	<description>department-service</description>
 
@@ -102,7 +102,7 @@
 					</execution>
 				</executions>
 				<configuration>
-					<repository>anandn76/${project.name}</repository>
+					<repository>anandn76/${project.artifactId}</repository>
 					<tag>${project.version}</tag>
 					<useMavenSettingsForAuth>true</useMavenSettingsForAuth>
 				</configuration>
